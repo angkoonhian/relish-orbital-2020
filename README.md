@@ -1,1 +1,2 @@
-# relish-orbital-2020
+# Relish (CP2106 Orbital)
+
